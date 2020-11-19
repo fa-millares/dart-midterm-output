@@ -12,8 +12,5 @@ in simpler terms: (1) Scissors > Paper, Lizard
 
 (6) if same moves, it's a tie.
 
-<<<<<<< Updated upstream
-This Filipino version of the classic game we all got to know is has a twist with the series, "the Big Bang Theory" where they play "Rock, Scissors, Papers, Lizard, Spock" can be translated to "Bato, Gunting, Papel, Butiki, Spock."
-=======
 This Filipino version of the classic game we all got to know as "Rock, Paper, Scissors" or "Jack-en-poy" but this time, it has a twist with the series, "the Big Bang Theory" where they play "Rock, Scissors, Papers, Lizard, Spock" can be translated to "Bato, Gunting, Papel, Butiki, Spock."
->>>>>>> Stashed changes
+
